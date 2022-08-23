@@ -1,16 +1,7 @@
-head{
- min-height: min-content;   
-  background-color: white;  
-}
-
-body{
-background-color:  #1b2a4e;
-}
-
 .footer-basic {
     padding:40px 0;
-    background-color: #1b2a4e;
-    color:#4c4d4e;
+    background-color:#ffffff;
+    color:#4b4c4d;
   }
   
   .footer-basic ul {
@@ -66,4 +57,3 @@ background-color:  #1b2a4e;
     color:#aaa;
     margin-bottom:0;
   }
-  
