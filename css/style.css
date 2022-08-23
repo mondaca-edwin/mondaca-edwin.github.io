@@ -1,6 +1,10 @@
 .body{
     background-color: #1b2a4e;
-    min-height: max-content;
+    max-height: max-content;
+}
+
+h1{
+    color:white
 }
 
 .footer-basic {
