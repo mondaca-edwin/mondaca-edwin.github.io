@@ -3,6 +3,7 @@ body{
 }
 
 .footer-basic {
+    min-height: auto;
     padding:40px 0;
     background-color: #1b2a4e;
     color:#ffffff;
