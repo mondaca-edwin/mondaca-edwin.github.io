@@ -1,7 +1,11 @@
+body{
+    background-color: #1b2a4e;
+}
+
 .footer-basic {
     padding:40px 0;
-    background-color:#ffffff;
-    color:#4b4c4d;
+    background-color: #1b2a4e;
+    color:#ffffff;
   }
   
   .footer-basic ul {
